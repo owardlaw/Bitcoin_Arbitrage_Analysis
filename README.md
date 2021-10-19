@@ -1,5 +1,5 @@
 # Bitcoin__Arbitrage_Analysis
-This is a python jupyter lab based analysis tool used for analysis of specific time frames to look for arbitrage opportunities between who exchanges. It takes into account positive arbitrage opportunities, and arbitrage spread that is large enough to cover exchange fees.
+This is a python JupyterLab based analysis tool used for analysis of specific time frames to look for arbitrage opportunities between who exchanges. It takes into account positive arbitrage opportunities, and arbitrage spread that is large enough to cover exchange fees.
 
 ---
 
